@@ -1,4 +1,4 @@
-### gbc
+# gbc
 Gavin Kaempf 101683603 gavin.kaempf@georgebrown.ca
 
 ## Links
